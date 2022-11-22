@@ -1,4 +1,4 @@
-<p text-align="center">![Banner](/Sin%20título(1).jpg)</p>
+<p align="center">[![Banner](/Sin%20título(1).jpg)]</p>
 <h1 align="center">Hi 👋, I'm Nahuel Puig</h1>
 <h3 align="center">A Fullstack Web Developer from Argentina</h3>
 

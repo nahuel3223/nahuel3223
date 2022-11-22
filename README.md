@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Nahuel Puig</h1>
 <h3 align="center">A Fullstack Web Developer from Argentina</h3>
 
+📋Who am I?📋
+I am enthusiastic and creative, with ease and flexibility to work as a team, when solving possible contingencies and/or developing implementations during Web Development.
+
+
 - 📫 How to reach me **puignahuel.ventas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>  <link>https://www.linkedin.com/in/nahuel-lautaro-puig-172a94181/</link>

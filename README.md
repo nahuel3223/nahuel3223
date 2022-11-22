@@ -1,13 +1,10 @@
-```<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>```
+
 <h1 align="center">Hi 👋, I'm Nahuel Puig</h1>
 <h3 align="center">A Fullstack Web Developer from Argentina</h3>
 
 - 📫 How to reach me **puignahuel.ventas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nahuel-lautaro-puig-172a94181" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/nahuel-lautaro-puig-172a94181?trk=profile-badge">Nahuel Lautaro Puig</a></div>
-              
+<h3 align="left">Connect with me:</h3>  
 
 <p align="left">
 </p>

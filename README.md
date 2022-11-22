@@ -1,4 +1,4 @@
-[![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQHm2Fw9Jf5Zeg/profile-displaybackgroundimage-shrink_350_1400/0/1668513639477?e=1674691200&v=beta&t=vSPy5zyruTTzval4Vic-pki-a3haKjkElhKBSKbxHQQ)]
+![Banner](/Sin título(1).jpg)
 <h1 align="center">Hi 👋, I'm Nahuel Puig</h1>
 <h3 align="center">A Fullstack Web Developer from Argentina</h3>
 

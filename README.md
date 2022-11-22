@@ -3,7 +3,7 @@
 <h3 align="center">A Fullstack Web Developer from Argentina</h3>
 
 📋Who am I?📋
-I am enthusiastic and creative, with ease and flexibility to work as a team, when solving possible contingencies and/or developing implementations during Web Development.
+- I am enthusiastic and creative, with ease and flexibility to work as a team, when solving possible contingencies and/or developing implementations during Web Development.
 
 
 - 📫 How to reach me **puignahuel.ventas@gmail.com**

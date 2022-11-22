@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **puignahuel.ventas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>  
+<h3 align="left">Connect with me:</h3>  <link>https://www.linkedin.com/in/nahuel-lautaro-puig-172a94181/</link>
 
 <p align="left">
 </p>
